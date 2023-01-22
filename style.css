@@ -1,0 +1,35 @@
+.lali {
+    background-color: #F2DEBA;
+}
+
+.lalu {
+    background-color: rgb(132, 223, 229);
+}
+
+h1 {
+    color: #5BC0F8;
+}
+
+h2 {
+    color: #5BC0F8;
+}
+
+h4 {
+    color: #5BC0F8;
+}
+
+#heading {
+    color: red;
+}
+
+#heading:hover {
+    color: green;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 90%;
+}
